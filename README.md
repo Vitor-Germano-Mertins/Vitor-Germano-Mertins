@@ -11,4 +11,4 @@ Tenho interesse em back-end, desenvolvimento de aplicações e resolução de pr
 - Visual Studio Code
 - Lógica de Programação
 - Programação Orientada a Objetos
-<img src="{https://commons.wikimedia.org/wiki/File:LinkedIn_icon.svg}" />
+<img src="{https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/3840px-LinkedIn_icon.svg.png}" />
