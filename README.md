@@ -11,4 +11,6 @@ Tenho interesse em back-end, desenvolvimento de aplicações e resolução de pr
 - Visual Studio Code
 - Lógica de Programação
 - Programação Orientada a Objetos
-  <img src="{https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/120px-LinkedIn_icon.svg.png?_=20210220164014}" />
+
+# Linkedin
+www.linkedin.com/in/vitor-germano-mertins
